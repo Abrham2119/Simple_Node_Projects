@@ -1,0 +1,15 @@
+{
+  "name": "nodesam",
+  "version": "1.0.0",
+  "description": "this i snodesam project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrham Zewdu",
+  "license": "ISC",
+  "dependencies": {
+    "superhero": "^2.13.7",
+    "supervillains": "^3.1.0"
+  }
+}
